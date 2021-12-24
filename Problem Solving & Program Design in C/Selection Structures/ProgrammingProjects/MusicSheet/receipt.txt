@@ -1,0 +1,11 @@
+
+1. Teacher
+2. Non-teacher
+Select a choice
+Total purchases - $
+
+Total purchases 	 $122.00
+Teacher's discount (12%) 		 $14.64
+Discounted total 		 $107.36
+Sales tax (5%) 		 $5.37
+Total 		 $112.73
